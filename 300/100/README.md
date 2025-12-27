@@ -11,7 +11,7 @@ Skills by Maturity Level linked to Jobs-to-be-Done
 | Docker | --- | --- | --- | --- | --- | --- |
 | Cloud Security | --- | --- | --- | --- | --- | --- |
 | CI/CD Pipeline | --- | --- | --- | --- | --- | --- |
-| Python | --- | --- | --- | --- | --- | --- |
+| [Python](https://github.com/vanHeemstraSystems/learning-python) | --- | --- | --- | --- | --- | --- |
 | Infrastructure as Code | --- | --- | --- | --- | --- | --- |
 | Terraform | --- | --- | --- | --- | --- | --- |
 | SOAR (Security Orchestration, Automation and Response) | --- | --- | --- | --- | --- | --- |
