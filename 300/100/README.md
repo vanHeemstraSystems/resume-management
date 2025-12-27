@@ -8,12 +8,12 @@ Skills by Maturity Level linked to Jobs-to-be-Done
 | Security Automation | --- | --- | --- | --- | --- | --- |
 | Container Security | --- | --- | --- | --- | --- | --- |
 | Kubernetes | ... | ... | ... | ... | ... | Security Engineer<br>Cloud Engineer | 
-| Docker | --- | --- | --- | --- | --- | --- |
+| [Docker](https://github.com/vanHeemstraSystems/learning-docker) | --- | --- | --- | --- | --- | --- |
 | Cloud Security | --- | --- | --- | --- | --- | --- |
 | CI/CD Pipeline | --- | --- | --- | --- | --- | --- |
 | [Python](https://github.com/vanHeemstraSystems/learning-python) | --- | --- | --- | --- | --- | --- |
 | Infrastructure as Code | --- | --- | --- | --- | --- | --- |
-| Terraform | --- | --- | --- | --- | --- | --- |
+| [Terraform](https://github.com/vanHeemstraSystems/learning-terraform) | --- | --- | --- | --- | --- | --- |
 | SOAR (Security Orchestration, Automation and Response) | --- | --- | --- | --- | --- | --- |
 | Azure Security | --- | --- | --- | --- | --- | --- |
 | AWS Security | --- | --- | --- | --- | --- | --- |
