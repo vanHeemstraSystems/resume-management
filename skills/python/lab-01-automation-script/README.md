@@ -1,8 +1,8 @@
 # Python Automation for Cloud Operations Lab
 
 ## Lab Overview
-**Skill Level**: Intermediate → Advanced
-**Duration**: 4-6 hours initial setup + ongoing refinement
+**Skill Level**: Intermediate → Advanced  
+**Duration**: 4-6 hours initial setup + ongoing refinement  
 **Business Value**: Demonstrates ROI through automation metrics
 
 ---
