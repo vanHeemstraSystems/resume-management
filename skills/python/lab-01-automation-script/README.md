@@ -3,7 +3,7 @@
 ## Lab Overview
 **Skill Level**: Intermediate → Advanced  
 **Duration**: 4-6 hours initial setup + ongoing refinement  
-**Business Value**: Demonstrates ROI through automation metrics
+**Business Value**: Demonstrates ROI through automation metrics  
 **Link**: [Python Cloud Automation](https://github.com/vanHeemstraSystems/python-cloud-automation)
 
 ---
