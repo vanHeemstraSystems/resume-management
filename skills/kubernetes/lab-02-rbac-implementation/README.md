@@ -6,7 +6,7 @@
 **Duration**: 8-10 hours initial setup + refinement  
 **Kubernetes Version**: 1.28+  
 **Business Value**: Enterprise-grade multi-tenant cluster security  
-**Author**: Willem van Heemstra
+**Author**: Willem van Heemstra  
 **Link**: [Kubernetes RBAC Implementation](https://github.com/vanHeemstraSystems/kubernetes-rbac-implementation)
 
 -----
